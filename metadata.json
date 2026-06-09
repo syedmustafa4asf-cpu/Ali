@@ -1,0 +1,6 @@
+{
+  "name": "talk and chat with ALI",
+  "description": "An interactive AI companion featuring hyperrealistic responsive avatars for chat, voice and video call communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
